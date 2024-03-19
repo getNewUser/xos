@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { Mark } from "../types/Mark";
+import { Mark } from "../types/mark";
 
 const StyledButton = styled.button`
 width: 100%;

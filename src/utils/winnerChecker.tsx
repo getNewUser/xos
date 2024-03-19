@@ -1,4 +1,4 @@
-import { Mark } from "../types/Mark";
+import { Mark } from "../types/mark";
 
 export function winnerChecker(squares: Mark[]): boolean {
     const patterns = [checkFirstRow, checkSecondRow, checkThirdRow, checkFirstColumn, checkSecondColumn, checkThirdColumn, checkDiagonal];

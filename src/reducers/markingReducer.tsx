@@ -1,7 +1,7 @@
 import { createSlice } from "@reduxjs/toolkit";
 import { Score } from "../types/score";
 import { winnerChecker } from "../utils/winnerChecker";
-import { Mark } from "../types/Mark";
+import { Mark } from "../types/mark";
 
 const gameboardSlice = createSlice({
     name: 'gameboard',

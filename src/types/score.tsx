@@ -1,4 +1,4 @@
-import { Mark } from "./Mark";
+import { Mark } from "./mark";
 
 export class Score {
     public matches: Mark[] = [];
