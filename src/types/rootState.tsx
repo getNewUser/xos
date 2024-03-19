@@ -1,4 +1,4 @@
-import { Mark } from "../components/square";
+import { Mark } from "./Mark";
 import { Score } from "./score";
 
 export interface RootState {

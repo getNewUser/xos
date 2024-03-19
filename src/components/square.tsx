@@ -1,11 +1,5 @@
-import { useState } from "react";
 import styled from 'styled-components';
-
-export enum Mark {
-    X = 'X',
-    O = 'O',
-    None = ''
-}
+import { Mark } from "../types/Mark";
 
 const StyledButton = styled.button`
 width: 100%;

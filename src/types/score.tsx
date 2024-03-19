@@ -1,4 +1,4 @@
-import { Mark } from "../components/square";
+import { Mark } from "./Mark";
 
 export class Score {
     public matches: Mark[] = [];

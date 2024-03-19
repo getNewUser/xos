@@ -4,7 +4,6 @@ import { RootState } from "../types/rootState";
 import styled from 'styled-components';
 
 const ScoreBoardContainer = styled.div`
-    // Add your styles here
 `;
 
 const MatchesList = styled.ul`
